@@ -7,7 +7,7 @@
 
   **Instructor:**      Dan Bousfield
 
-  **Office Hours:**    Wednesday 10:00am-noon via zoom - link in
+  **Office Hours:**    Wednesday 11:00am-1:00pm via zoom - link in
                        Brightspace
 
   **Email:**           dbousfie@uwo.ca
@@ -237,7 +237,7 @@ supporting documentation** in this course. However, the following
 assessments are excluded from this, and therefore always require formal
 supporting documentation:
 
-Term Assignment -- 20%
+Term Assignment
 
 When a student *[mistakenly]{.underline}* submits their
 [one]{.underline} allowed Academic Consideration request **without
@@ -310,7 +310,7 @@ submitted to the system. Use of the service is subject to the licensing
 agreement, currently between The University of Western Ontario and
 Turnitin.com ([http://www.turnitin.com](http://www.turnitin.com/)).
 
-## Weekly Participation -- 25% (Weekly submissions) 
+## Weekly Participation -- (Weekly submissions) 
 
 Weekly Assignments -- Base submission is pass/fail 70% (17.5 of 25)
 
@@ -368,7 +368,7 @@ participation mark.
 
 At the end of the course students just need to calculate their
 participation based on the submissions each week throughout the course.
-We will take your top 5 weeks.\
+We will take your top 10 weeks.\
 \
 2 forms of participation per week = 70% (pass/fail)\
 \
@@ -378,30 +378,10 @@ approximations, I withhold the right to assess the quality of the
 submission and adjust the grade accordingly). You should be able to
 demonstrate your responses to my feedback, engaging with different
 course material each week to demonstrate improvement throughout the
-course.\
+course. See Brightspace for an example of how to calculate your
+participation grade.\
 \
-Therefore the calculation would look like:
-
-'This is my calculation of my participation
-
-- 2 forms of participation: 2x on weeks 1, 2, 3, 7, 10 (I did the
-  quizzes and another exercise) 5\*70 = 350 & I responded to feedback
-  (see the attached files, improving my citation and paragraph
-  structure) =10\*50 = 400/500
-
-- 3 forms of participation: Week 4, 5 (I did 2 quizzes and 2 TikTok\'s
-  and two op-eds) = 2\* 80 = 160/200
-
-- 4 forms of participation: Week 6, 8, 9 = (I did 3 quizzes, 2 article
-  reviews, 2 debates, 2 podcasts) = 3\*90 & 10% because you said I
-  improved the podcasts = 3\*100 = 300/300
-
-- Total calculation:\
-  400+200+300 = 900/1000 = 90% or 22.5/25\
-  Therefore, my participation for the term should be 22.5 out of 25 -
-  please see the attached files to demonstrate my improvement.'
-
-## Attendance Bonus (5% on Final Exam)
+Attendance Bonus (5% on Final Exam)
 
 Students will receive a 1% bonus on their final exam grade for every two
 classes attended (attendance must be recorded through the Microsoft form
@@ -410,7 +390,7 @@ earn the full 5% bonus. You can check your participation through the
 link in Brightspace weekly. You cannot receive more than 100% on the
 final exam.
 
-## Term Assignment: 25% of final grade (requires documentation for an academic consideration)
+## Term Assignment: (requires documentation for an academic consideration)
 
 ### Option 1 -- Paired Debate 
 
@@ -847,8 +827,8 @@ Turnitin.com ( <http://www.turnitin.com> )."
 ## Guidelines for Success in Class
 
 Since there seldom are definitive answers to the questions we will be
-asking about Canadian-US relations, and much of what you will learn in
-this course will be enhanced by the ideas and perspectives of your
+asking about the politics of AI, and much of what you will learn in this
+course will be enhanced by the ideas and perspectives of your
 colleagues. But for this to work, everyone must participate fully and
 constructively. Be mindful of the following points, and you will be
 successful:
@@ -872,14 +852,6 @@ successful:
   will teach you even more about your own position while simultaneously
   exposing you to different viewpoints. Make use of such opportunities,
   but no disrespectful behavior will be tolerated.
-
-- Raise questions when you have them. Raising useful questions counts as
-  participation. You can use the online forums, e-mail, Facebook or zoom
-  to raise questions you encounter throughout the course. Uncertainties
-  are usually shared by others -- when you raise your questions in class
-  everyone learns while you build your own participation grade. The
-  forums should be the primary location for questions, please only use
-  the other options AFTER you have posted to the forum.
 
 # Criteria for the evaluation of written assignments
 
@@ -1025,14 +997,13 @@ their assignments.
 
 ## Policy on communication
 
-The forums should be your primary place for questions, issues and
-concerns with the course. I strive to be accessible and responsive to
-student inquiries. However, repeated or persistent e-mails/texts/phone
-calls will overload my capacity to respond to all students equally. As
-such, I reserve the right to answer initial questions but forego
-multiple responses or inquires for a 24hour cool-down period. I also may
-take longer to respond to communications during non-working hours,
-holidays, and weekends. I appreciate your understanding in this matter.
+I strive to be accessible and responsive to student inquiries. However,
+repeated or persistent e-mails/texts/phone calls will overload my
+capacity to respond to all students equally. As such, I reserve the
+right to answer initial questions but forego multiple responses or
+inquires for a 24hour cool-down period. I also may take longer to
+respond to communications during non-working hours, holidays, and
+weekends. I appreciate your understanding in this matter.
 
 ## Late Assignments - Formal Guidelines
 
@@ -1765,191 +1736,11 @@ AI?
 
 <https://news.harvard.edu/gazette/story/2020/10/ethical-concerns-mount-as-ai-takes-bigger-decision-making-role/>
 
-**APPENDIX TO UNDERGRADUATE COURSE OUTLINES**
+APPENDIX TO UNDERGRADUATE COURSE OUTLINES DEPARTMENT OF POLITICAL
+SCIENCE
+<https://politicalscience.uwo.ca/undergraduate/docs/outlines/2025-26/APPENDIX%20TO%20UNDERGRADUATE%20COURSE%20OUTLINES.pdf>
 
-**DEPARTMENT OF POLITICAL SCIENCE**
-
-**Prerequisite checking - the student's responsibility**
-
-\"Unless you have either the requisites for this course or written
-special permission from your Dean to enroll in it, you may be removed
-from this course and it will be deleted from your record. This decision
-may not be appealed. You will receive no adjustment to your fees in the
-event that you are dropped from a course for failing to have the
-necessary prerequisites.\"
-
-**Essay course requirements**
-
-With the exception of 1000-level courses, most courses in the Department
-of Political Science are essay courses. Total written assignments
-(excluding examinations) will be at least 3,000 words in Politics 1020E,
-at least 5,000 words in a full course numbered 2000 or above, and at
-least 2,500 words in a half course numbered 2000 or above.
-
-**Use of Personal Response Systems ("Clickers")**
-
-\"Personal Response Systems (\"clickers\") may be used in some classes.
-If clickers are to be used in a class, it is the responsibility of the
-student to ensure that the device is activated and functional. Students
-must see their instructor if they have any concerns about whether the
-clicker is malfunctioning.
-
-Students must use only their own clicker. If clicker records are used to
-compute a portion of the course grade:
-
-- the use of somebody else's clicker in class constitutes a scholastic
-  offence,
-
-- the possession of a clicker belonging to another student will be
-  interpreted as an attempt to commit a scholastic offence.\"
-
-**Security and Confidentiality of Student Work** (refer to current
-Western Academic Calendar
-
-(http://www.westerncalendar.uwo.ca/)
-
-\"Submitting or Returning Student Assignments, Tests and Exams - All
-student assignments, tests and exams will be handled in a secure and
-confidential manner. Particularly in this respect, leaving student work
-unattended in public areas for pickup is not permitted.\"
-
-**Duplication of work**
-
-Undergraduate students who submit similar assignments on closely related
-topics in two different courses must obtain the consent of both
-instructors prior to the submission of the assignment. If prior approval
-is not obtained, each instructor reserves the right not to accept the
-assignment.
-
-**Grade adjustments**
-
-In order to ensure that comparable standards are applied in political
-science courses, the Department may require instructors to adjust final
-marks to conform to Departmental guidelines.
-
-**Academic Offences**
-
-\"Scholastic offences are taken seriously and students are directed to
-read the appropriate policy, specifically, the definition of what
-constitutes a Scholastic Offence, at the following Web site:
-
-http://www.uwo.ca/univsec/handbook/appeals/scholoff.pdf .\"
-
-**Submission of Course Requirements**
-
-ESSAYS, ASSIGNMENTS, TAKE-HOME EXAMS MUST BE SUBMITTED ACCORDING TO
-PROCEDURES SPECIFIED BY YOUR INSTRUCTOR (I.E., IN CLASS, DURING OFFICE
-HOURS, TA\'S OFFICE HOURS) OR UNDER THE INSTRUCTOR\'S OFFICE DOOR.
-
-**THE MAIN OFFICE DOES NOT DATE-STAMP OR ACCEPT ANY OF THE ABOVE.**
-
-Note: Information excerpted and quoted above are Senate regulations from
-the Handbook of Scholarship and Academic Policy.
-http://www.uwo.ca/univsec/handbook/
-
-Students registered in Social Science should refer to
-http://counselling.ssc.uwo.ca/
-http://counselling.ssc.uwo.ca/procedures/havingproblems.asp for
-information on Medical Policy, Term Tests, Final Examinations, Late
-Assignments, Short Absences, Extended Absences, Documentation and other
-Academic Concerns. Non-Social Science students should refer to their
-home faculty's academic counselling office.
-
-**Plagiarism**
-
-\"Plagiarism: Students must write their essays and assignments in their
-own words. Whenever students take an idea, or a passage from another
-author, they must acknowledge their debt both by using quotation marks
-where appropriate and by proper referencing such as footnotes or
-citations. Plagiarism is a major academic offence.\" (see Scholastic
-Offence Policy in the Western Academic Calendar).
-
-**Plagiarism Checking:** \"All required papers may be subject to
-submission for textual similarity review to the commercial plagiarism
-detection software under license to the University for the detection of
-plagiarism. All papers submitted for such checking will be included as
-source documents in the reference database for the purpose of detecting
-plagiarism of papers subsequently submitted to the system. Use of the
-service is subject to the licensing agreement, currently between The
-University of Western Ontario and Turnitin.com ( http://www.turnitin.com
-).\"
-
-**Multiple-choice tests/exams:** \"Computer-marked multiple-choice tests
-and/or exams may be subject to submission for similarity review by
-software that will check for unusual coincidences in answer patterns
-that may indicate cheating.\"
-
-Note: Information excerpted and quoted above are Senate regulations from
-the Handbook of Scholarship and Academic Policy.
-http://www.uwo.ca/univsec/handbook/
-
-**PLAGIARISM\***
-
-In writing scholarly papers, you must keep firmly in mind the need to
-avoid plagiarism. Plagiarism is the unacknowledged borrowing of another
-writer\'s words or ideas. Different forms of writing require different
-types of acknowledgement. The following rules pertain to the
-acknowledgements necessary in academic papers.
-
-**A. In using another writer\'s words, you must both place the words in
-quotation marks and acknowledge that the words are those of another
-writer.**
-
-You are plagiarizing if you use a sequence of words, a sentence or a
-paragraph taken from other writers without acknowledging them to be
-theirs. Acknowledgement is indicated either by (1) mentioning the author
-and work from which the words are borrowed in the text of your paper; or
-by (2) placing a footnote number at the end of the quotation in your
-text, and including a correspondingly numbered footnote at the bottom of
-the page (or in a separate reference section at the end of your essay).
-This footnote should indicate author, title of the work, place and date
-of publication, and page number.
-
-Method (2) given above is usually preferable for academic essays because
-it provides the reader with more information about your sources and
-leaves your text uncluttered with parenthetical and tangential
-references. In either case words taken from another author must be
-enclosed in quotation marks or set off from your text by single spacing
-and indentation in such a way that they cannot be mistaken for your own
-words. Note that you cannot avoid indicating quotation simply by
-changing a word or phrase in a sentence or paragraph which is not your
-own.
-
-**B. In adopting other writers\' ideas, you must acknowledge that they
-are theirs.**
-
-You are plagiarizing if you adopt, summarize, or paraphrase other
-writers\' trains of argument, ideas or sequences of ideas without
-acknowledging their authorship according to the method of
-acknowledgement given in \'A\' above. Since the words are your own, they
-need not be enclosed in quotation marks. Be certain, however, that the
-words you use are entirely your own; where you must use words or phrases
-from your source, these should be enclosed in quotation marks, as in
-\'A\' above.
-
-Clearly, it is possible for you to formulate arguments or ideas
-independently of another writer who has expounded the same ideas, and
-whom you have not read. Where you got your ideas is the important
-consideration here. Do not be afraid to present an argument or idea
-without acknowledgement to another writer, if you have arrived at it
-entirely independently. Acknowledge it if you have derived it from a
-source outside your own thinking on the subject.
-
-In short, use of acknowledgements and, when necessary, quotation marks
-is necessary to distinguish clearly between what is yours and what is
-not. Since the rules have been explained to you, if you fail to make
-this distinction your instructor very likely will do so for you, and
-they will be forced to regard your omission as intentional literary
-theft. Plagiarism is a serious offence which may result in a student\'s
-receiving an \'F\' in a course or, in extreme cases in their suspension
-from the University.
-
-\*Reprinted by permission of the Department of History
-
-Adopted by the council of the Faculty of Social Science, October, 1970;
-approved by the Dept. of History August 13, 1991
-
-**Accessibility at Western:** Please contact poliscie@uwo.ca if you
+**Accessibility at Western: Please** contact poliscie@uwo.ca if you
 require any information in plain text format, or if any other
 accommodation can make the course material and/or physical space
 accessible to you.
