@@ -589,15 +589,15 @@ Essay, Policy Analysis OR LLM assignment (part 2) (If Chosen)
 
 #### **Option One: Traditional Essay or Policy Analysis**
 
-The final draft of the paper should be 10-12 pages (2500-3000 words) in
-length (excluding the bibliography) and must be presented in proper
-scholarly format. Students will write a major research paper (based
-primarily on academic sources) on a topic of their choice, to be arrived
-at in consultation with the instructor. Essay topics should be chosen by
-Week 6. The essay will choose a pre-approved topic and explicitly
-address an ethical, social, or regulatory challenge related to AI using
-a specific theoretical framework or approach discussed in the course.
-The assignment must be in proper formal essay format (no bullet points,
+The final draft of the paper should be 8 pages (2000 words) in length
+(excluding the bibliography) and must be presented in proper scholarly
+format. Students will write a major research paper (based primarily on
+academic sources) on a topic of their choice, to be arrived at in
+consultation with the instructor. Essay topics should be chosen by Week
+6. The essay will choose a pre-approved topic and explicitly address an
+ethical, social, or regulatory challenge related to AI using a specific
+theoretical framework or approach discussed in the course. The
+assignment must be in proper formal essay format (no bullet points,
 short form, or colloquial language; can use subheadings to identify
 sections; use proper citation; and should NOT INCLUDE ANY FORM OF
 ANNOTATED BIBLIOGRAPHY). Dictionaries, encyclopedias, and Wikipedia
@@ -654,7 +654,7 @@ include:
 
 - Papers submitted before the deadline can revise and resubmit the
   assignment. For details on revision and resubmission, see the 'revise
-  and resubmit' tab in brightspace.
+  and resubmit' tab in Brightspace.
 
 - The Department's rules regarding plagiarism and the submission of
   similar essays to two or more different instructors are appended to
@@ -1137,6 +1137,38 @@ list of examples). Generative technology may be used to assist in
 assessment throughout the course, if you wish to opt out of the use of
 generative technology, please let me know.
 
+How generative technology may be used in assessment:
+
+1\. Pre-assessment - to provide structural or overall feedback before
+begining any grading.
+
+2\. Applying rubric - using the rubric from the course outline to apply
+to submitted assignments to assess the degree of compliance before or
+during completing any grading.
+
+3\. During assessment - to double-check the veracity of claims being
+made about your submission during the assessment of your material.
+
+4\. Post assessment - to find additional examples or instances in your
+submissions to assist in providing feedback.
+
+5\. Refining assessment - suggesting forms of constructive criticism,
+actionable items, and overarching themes or issues to assist in your
+assessment.
+
+6\. Checking for unauthorized AI use, following University guidelines
+(and those attached below).
+
+How generative technology will NOT be used in assessment:
+
+No grades will be assigned solely with generative technology at any
+point in this course. Assessment will always be done by the
+instructor/graders in accordance with the course outlines, because of
+the unpredictability and unreliability of current generative technology.
+
+No personal or individual identifiers will ever be included in the
+assessment of material by any generative technology.
+
 +----------------+--------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+
 | **Example of   | **Why is this Allowed?**                                                                                                 | **Things to Keep in Mind**                                                        |
 | an Allowable   |                                                                                                                          |                                                                                   |
@@ -1195,59 +1227,49 @@ generative technology, please let me know.
 | abilities.**   |                                                                                                                          |                                                                                   |
 +----------------+--------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+
 
-+-----------------+----------------------------------------------------------------------------------------------------------------------------+
-| **Example of a  | **Why is this NOT Allowed?**                                                                                               |
-| Non-Allowable   |                                                                                                                            |
-| Use**           |                                                                                                                            |
-+-----------------+----------------------------------------------------------------------------------------------------------------------------+
-| Prompting a     | Discussion prompts are meant to incorporate your voice and your thoughts. Participating in discussions is about building   |
-| Generative      | community and relationships as well as actively engaging in your own thinking and learning to communicate with others.     |
-| technology      | Using Generative technology for this activity subverts both the social and learning goals of the activity.                 |
-| technology to   |                                                                                                                            |
-| **respond to a  |                                                                                                                            |
-| discussion      |                                                                                                                            |
-| forum prompt**  |                                                                                                                            |
-| for you.        |                                                                                                                            |
-+-----------------+----------------------------------------------------------------------------------------------------------------------------+
-| Using a         | Designing a presentation requires you to actively engage in thinking and learning about the material and consider how best |
-| Generative      | to communicate that information to an audience. Prompting Generative technology to do this work for you subverts your      |
-| technology      | learning and the opportunity to develop your creative communication skills.                                                |
-| technology      |                                                                                                                            |
-| (e.g.,          |                                                                                                                            |
-| Slidesgo) to    |                                                                                                                            |
-| **design a      |                                                                                                                            |
-| class           |                                                                                                                            |
-| presentation**  |                                                                                                                            |
-| for you.        |                                                                                                                            |
-+-----------------+----------------------------------------------------------------------------------------------------------------------------+
-| Modifying       | Making minor adjustments to AI-generated work only supports surface-level learning, rather than deep learning ([learn      |
-| AI-generated    | more](https://www.psy.gla.ac.uk/~steve/courses/archive/CERE12-13-safari-archive/topic9/webarchive-index.html)), because    |
-| work slightly   | the focus is on minor adjustments rather than truly understanding the material.                                            |
-| to **make it    |                                                                                                                            |
-| appear as if    |                                                                                                                            |
-| you created     |                                                                                                                            |
-| it**.           |                                                                                                                            |
-+-----------------+----------------------------------------------------------------------------------------------------------------------------+
-| Prompting       | Research has shown that using Generative technology to provide solutions for you (or in this case, provide data analysis   |
-| Generative      | output for you) prevents you from actively engaging with, and learning, the material (read: [Generative AI Can Harm        |
-| technology to   | Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486&utm_source=substack&utm_medium=email)). Using        |
-| **analyze data  | Generative technology in this way subverts your learning. Additionally, Generative technology tools are not calculators or |
-| for you** and   | math machines, they are predictability machines (they guess which words go together to make the most plausible             |
-| submitting the  | human-sounding response).                                                                                                  |
-| data analysis   |                                                                                                                            |
-| as your own.    |                                                                                                                            |
-+-----------------+----------------------------------------------------------------------------------------------------------------------------+
-| Copying         | Please read "[The Case For Not Citing Chatbots As Information                                                              |
-| AI-generated    | Sources](https://scholarlykitchen.sspnet.org/2024/06/20/the-case-for-not-citing-chatbots-as-information-sources-part-ii/)" |
-| text word for   | and "[Generative AI Has an Intellectual Property                                                                           |
-| word into your  | Problem](https://hbr.org/2023/04/generative-ai-has-an-intellectual-property-problem)" and, instead, find an original       |
-| written work,   | source to cite. When you put in the effort to find an original source to cite, you are deepening your thinking and         |
-| but **citing it | learning about that topic and you are giving credit to human authors/artists.                                              |
-| as written by   |                                                                                                                            |
-| AI**.           | However, if you prompt a Generative technology technology to create an original source of text or media -- something that  |
-|                 | cannot be traced back to an original source (e.g., a Taylor Swift rendition of the Declaration of Independence) -- you can |
-|                 | write "This text was generated by ChatGPT \[or insert another Generative technology technology\] in a footnote."           |
-+-----------------+----------------------------------------------------------------------------------------------------------------------------+
+  ------------------ ----------------------------------------------------------------------------------------------------------------------------
+  **Example of a     **Why is this NOT Allowed?**
+  Non-Allowable      
+  Use**              
+
+  Prompting a        Discussion prompts are meant to incorporate your voice and your thoughts. Participating in discussions is about building
+  Generative         community and relationships as well as actively engaging in your own thinking and learning to communicate with others. Using
+  technology         Generative technology for this activity subverts both the social and learning goals of the activity.
+  technology to      
+  **respond to a     
+  discussion forum   
+  prompt** for you.  
+
+  Using a Generative Designing a presentation requires you to actively engage in thinking and learning about the material and consider how best
+  technology         to communicate that information to an audience. Prompting Generative technology to do this work for you subverts your
+  technology (e.g.,  learning and the opportunity to develop your creative communication skills.
+  Slidesgo) to       
+  **design a class   
+  presentation** for 
+  you.               
+
+  Modifying          Making minor adjustments to AI-generated work only supports surface-level learning, rather than deep learning ([learn
+  AI-generated work  more](https://www.psy.gla.ac.uk/~steve/courses/archive/CERE12-13-safari-archive/topic9/webarchive-index.html)), because the
+  slightly to **make focus is on minor adjustments rather than truly understanding the material.
+  it appear as if    
+  you created it**.  
+
+  Prompting          Research has shown that using Generative technology to provide solutions for you (or in this case, provide data analysis
+  Generative         output for you) prevents you from actively engaging with, and learning, the material (read: [Generative AI Can Harm
+  technology to      Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486&utm_source=substack&utm_medium=email)). Using
+  **analyze data for Generative technology in this way subverts your learning. Additionally, Generative technology tools are not calculators or
+  you** and          math machines, they are predictability machines (they guess which words go together to make the most plausible
+  submitting the     human-sounding response).
+  data analysis as   
+  your own.          
+
+  Copying            Please read "[The Case For Not Citing Chatbots As Information
+  AI-generated text  Sources](https://scholarlykitchen.sspnet.org/2024/06/20/the-case-for-not-citing-chatbots-as-information-sources-part-ii/)"
+  word for word into and "[Generative AI Has an Intellectual Property
+  your written work  Problem](https://hbr.org/2023/04/generative-ai-has-an-intellectual-property-problem)" and, instead, find an original source
+  but **citing it as to cite. When you put in the effort to find an original source to cite, you are deepening your thinking and learning about
+  written by AI**.   that topic, and you are giving credit to human authors/artists.
+  ------------------ ----------------------------------------------------------------------------------------------------------------------------
 
 You are responsible for the information you submit based on an AI query
 (for instance, that it does not violate intellectual property laws, or
@@ -1776,4 +1798,3 @@ Instruction](https://www.uwo.ca/univsec/pdf/academic_policies/registration_progr
     [https://web.archive.org/web/20210413194856/https://studentlife.oregonstate.edu/childcare/family-friendly-syllabi-examples](https://web.archive.org/web/20210413194856/https:/studentlife.oregonstate.edu/childcare/family-friendly-syllabi-examples)
 
 [^2]: From U-M Faculty Member Alisse Portnoy, English.
-
