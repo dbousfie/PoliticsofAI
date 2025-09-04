@@ -1798,3 +1798,5 @@ Instruction](https://www.uwo.ca/univsec/pdf/academic_policies/registration_progr
     [https://web.archive.org/web/20210413194856/https://studentlife.oregonstate.edu/childcare/family-friendly-syllabi-examples](https://web.archive.org/web/20210413194856/https:/studentlife.oregonstate.edu/childcare/family-friendly-syllabi-examples)
 
 [^2]: From U-M Faculty Member Alisse Portnoy, English.
+
+Students can check if their attendance was recorded at this link http://tiny.cc/3390attend
