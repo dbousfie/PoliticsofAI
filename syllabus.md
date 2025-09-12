@@ -1801,3 +1801,81 @@ Instruction](https://www.uwo.ca/univsec/pdf/academic_policies/registration_progr
 
 Students can check if their attendance was recorded at this link http://tiny.cc/3390attend
 
+This is an Exemplar of what the week 12 participation summary will look like - along with rationale
+
+Participation Q&A
+Q: What does it mean to calculate participation?
+A: By calculating participation, we minimise unconscious bias, groupthink, and subjective assessment. Participation is assessed on clear, objective evidence. Students present what they’ve done in a way that demonstrates compliance with course expectations, rather than relying on the instructor’s memory or impressions.
+
+Q: Why do you do it this way?
+A: The purpose is to reduce unconscious bias and subjectivity in grading. The system is transparent and evidence-based, giving every student the same foundation. Everyone begins with the same base of 70% for completing quizzes + in-class group work each week. Students who go beyond this minimum by producing written work that shows revision and direct citation of weekly readings can move above the 70%.
+
+Q: What counts and what doesn’t?
+
+Counts toward base: Weekly quizzes + in-class group work (top 10 weeks).
+
+Counts toward extra: Written assignments (~250 words each), only if they directly cite the week’s assigned readings (with page numbers) and demonstrate improvement from first to second attempt.
+
+Does not count: Attendance (this is only a bonus toward your exam grade, not participation). Written work without direct citation of readings also does not count toward the extra.
+
+Q: Why evidence?
+A: All participation grades must be based on clear evidence (submitted work). This ensures equity is substantive: grades aren’t based on availability to attend, eagerness or interest, or the instructor’s bias, but on objective criteria anyone can meet.
+
+Week 12 — Participation Summary Exemplar (Student Submission)
+Student: Jane Doe
+Course: POLS 3390F — The Politics of AI
+Instructor: Dr. Bousfield
+Submission Type: Participation calculation + improvement evidence
+
+A) Participation Calculation
+I completed 10 counted weeks with Quiz + In-class Group Work (base requirement) → Base 70% (17.5/25).
+
+To move above 70%, I completed five distinct written formats, each done twice (initial + revised) → 10 written pieces × ~250 words = ~2500 words (all written, no video/podcasts). These are extra forms beyond Quiz + Group Work.
+
+B) Format (written formats only; each format appears twice across the term)
+
+Op-ed (≈250w) → Weeks 2 & 6
+
+Policy memo (≈250w) → Weeks 3 & 7
+
+Case brief (≈250w) → Weeks 4 & 8
+
+Comparative critique (≈250w) → Weeks 5 & 9
+
+Critical synthesis note (≈250w) → Weeks 10 & 11
+
+All five formats are fully written. No summaries, quizzes, or image-based items are used as extra forms. Each revised piece below follows the paragraph template required in course outline.
+
+C) Second Attempts with Improvement Notes
+
+Op-ed — Week 6 (Second Attempt)
+Topic: Digital sovereignty and AI security
+Improvement demonstrated: Added two direct quotes with page numbers from assigned readings; built a clear thesis in the opening line; used structured evidence/analysis. The first attempt was descriptive; the second ties analysis to course texts.
+
+Policy memo — Week 7 (Second Attempt)
+Topic: Ecological “technofixes” and AI’s energy use
+Improvement demonstrated: Inserted three short quotes (with page numbers) from readings; connected each to recommendations; added “Implications” section linking evidence to policy choice.
+
+Case brief — Week 8 (Second Attempt)
+Case: Labor protections in the gig economy
+Improvement demonstrated: Used quotations with page numbers to substantiate precedent; clarified relevance with a final takeaway sentence. First draft lacked sourcing; second anchors claims in course readings.
+
+Comparative critique — Week 9 (Second Attempt)
+Comparison: Two scholarly arguments on CRISPR and AI governance
+Improvement demonstrated: Juxtaposed three quoted propositions (with page numbers); followed each with explanation; concluded with explicit judgment of stronger framework.
+
+Critical synthesis note — Week 11 (Second Attempt)
+Theme: Hybrid warfare and AI-enabled propaganda
+Improvement demonstrated: Defined the concept with a direct quote; added two further quotations illustrating causal mechanisms; structured with topic → evidence → conclusion.
+
+Total written words across all formats: ≈ 2500 words
+
+D) Therefore the grade should be:
+
+Base: Top 10 weeks with Quiz + Group Work = 70%.
+
+Above-base justification: Five written formats × two attempts (all written; ~2500 words) + documented improvement in five revised pieces → movement into the 85–90 range, at instructor discretion.
+
+[ file with all submissions attached or linked here ]
+
+
