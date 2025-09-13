@@ -1799,7 +1799,7 @@ Instruction](https://www.uwo.ca/univsec/pdf/academic_policies/registration_progr
 
 [^2]: From U-M Faculty Member Alisse Portnoy, English.
 
-Students can check if their attendance was recorded at this link http://tiny.cc/3390attend
+Students can check if their attendance was recorded at this link https://westernu.brightspace.com/d2l/le/lessons/126015/topics/3450469
 
 This is an Exemplar of what the week 12 participation summary will look like - along with rationale
 
@@ -1877,5 +1877,6 @@ Base: Top 10 weeks with Quiz + Group Work = 70%.
 Above-base justification: Five written formats × two attempts (all written; ~2500 words) + documented improvement in five revised pieces → movement into the 85–90 range, at instructor discretion.
 
 [ file with all submissions attached or linked here ]
+
 
 
