@@ -1878,5 +1878,6 @@ Above-base justification: Five written formats × two attempts (all written; ~25
 
 [ file with all submissions attached or linked here ]
 
+If the weekly participation summary is submitted on the day of class there is a 5% bonus (instead of the grade being a base 70, it will be a base 75)
 
 
