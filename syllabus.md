@@ -1880,4 +1880,40 @@ Above-base justification: Five written formats × two attempts (all written; ~25
 
 If the weekly participation summary is submitted on the day of class there is a 5% bonus (instead of the grade being a base 70, it will be a base 75)
 
+Q: Where do I submit the write-up/response for participation?
+A: In Brightspace, click Course Content → select the week → submit under the weekly content section.
+
+Q: If I do the in-class quiz and the online quiz, is that enough for participation?
+A: Doing both gives you:
+
+* 75% if submitted the day of class.
+* 70% if submitted any time before the next class.
+
+Q: How do I write the written response to the lecture for participation?
+A: Use the big list from Waterloo for ideas, but mainly aim for variation in your 250-word responses. The goal is to meet the word limit if you prefer not to write the exam.
+
+Q: Are there discussion questions to respond to, or should it be based on my own thoughts?
+A: You can use the questions in the weekly PowerPoint as prompts, or respond based on your own reflections.
+
+Q: Where’s the link to the 250-word participation options?
+A: [https://uwaterloo.ca/centre-for-teaching-excellence/Assessment-AI-Strategies](https://uwaterloo.ca/centre-for-teaching-excellence/Assessment-AI-Strategies)
+
+Q: How many activities do I need to complete each week for 100% participation?
+A: You’re graded on improvement across weeks. It’s not enough just to submit—you must show progress. Each format is repeated twice to demonstrate this growth.
+
+Q: Does in-class group work count toward the participation grade?
+A: Yes. Weekly participation = half in-class group work + half online quiz. This earns the base 70% (or 75% if submitted on class day).
+
+Q: Where is the link for the different types of writing we can do for participation?
+A: [https://uwaterloo.ca/centre-for-teaching-excellence/Assessment-AI-Strategies](https://uwaterloo.ca/centre-for-teaching-excellence/Assessment-AI-Strategies)
+
+Q: Where do I find the pre-approved media for the term assignment?
+A: [https://docs.google.com/spreadsheets/d/1raCddghx5IyRShMGWlQcarJv1V7fjF779FtZHX0Gs58/edit?gid=0#gid=0\&range=H1](https://docs.google.com/spreadsheets/d/1raCddghx5IyRShMGWlQcarJv1V7fjF779FtZHX0Gs58/edit?gid=0#gid=0&range=H1)
+
+Q: Which types of assignments can be repeated each week without limit?
+A: Only in-class exercises and online quizzes can be repeated weekly. The 250-word written responses must rotate in format.
+
+
+
+
 
