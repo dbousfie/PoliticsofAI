@@ -328,36 +328,19 @@ Completing 10 weeks fulfills the full 70%. If you are submitting the
 same assignment for a second time, make sure to address 'What did I do
 differently this week?'
 
-Weekly Engagement Options (a minimum of two options required per week):
+Weekly Engagement Options (a minimum of two options required per week): 
 
-1.  Brightspace Lesson Quiz Completion: Complete the 2 lesson quizzes in
-    the 'Tests & Quizzes' section. These quizzes are pass/fail; only
-    completion is counted, not quiz score. Each quiz counts for one
-    participation mark. In class exercises will also count for one participation mark.
+1. Brightspace Lesson Quiz Completion 
+ Complete the 2 lesson quizzes in the ‘Tests & Quizzes’ section. These quizzes are pass/fail; only completion is counted, not quiz score. Each quiz counts for one participation mark. In-class exercises can also count for participation but are unlikely to help you achieve your word count requirements. 
 
-2.  Written Responses (250 words per lesson): A reflective analysis
-    engaging with lesson ideas and concepts from lectures, readings, or
-    both. This is not a summary but a critical engagement that links
-    material to current international issues. Proper essay paragraph
-    structure and intext citations are required where applicable. You
-    must reference the course readings at least three times per week to
-    get maximum grades. Submissions not meeting these standards are
-    ineligible for full credit. Each written response counts for one
-    participation mark. See detailed criteria below.
+Written Responses (250 words per lesson) OR Other Forms of Participation 
 
-3.  Video Responses: A short (TikTok-style) video exploring a key
-    academic issue from each lesson's content, suitable for a general
-    audience. Videos must reference at least one academic, peer-reviewed
-    source from our reading list and can be uploaded to Brightspace each
-    week (or linked if hosted elsewhere). Public posting is not
-    required. Each video counts for one participation mark.
+2. Written Responses (250 words per lesson): A reflective analysis engaging with lesson ideas and concepts from lectures, readings, or both. This is not a summary but a critical engagement that links material to current Canada US relations. Proper essay paragraph structure and intext citations are required where applicable. You must reference the course readings at least three times per week to get maximum grades. Submissions not meeting these standards are ineligible for full credit. Each written response counts for one participation mark. See detailed criteria below. 
 
-4.  Other forms of participation from this list:
-    <https://uwaterloo.ca/centre-for-teaching-excellence/Assessment-AI-Strategies>
-    excluding: True/False Questions, Quiz, Exams and Tests,
-    Fill-in-the-Blank Questions, Close Reading with Questions, Diagram
-    or Image-Based Questions, Summary. If you have any questions please
-    contact the instructor about the viability of your participation.
+Other forms of participation from this list: https://uwaterloo.ca/centre-for-teaching-excellence/Assessment-AI-Strategies excluding: True/False Questions, Quiz, Exams and Tests, Fill-in-the-Blank Questions, Close Reading with Questions, Diagram or Image-Based Questions, Summary. If you have any questions please contact the instructor about the viability of your participation. 
+
+3. Video Responses (does not count towards your total word count) 
+ A short (TikTok-style) video exploring a key academic issue from each lesson’s content, suitable for a general audience. Videos must reference at least one academic, peer-reviewed source from our reading list and can be uploaded to Brightspace each week (or linked if hosted elsewhere). Public posting is not required. Each video counts for one participation mark. 
 
 > Sample weekly participation submission:![Picture 565367195, Picture,
 > Picture](/media/image2.png){width="4.989583333333333in"
@@ -1912,6 +1895,7 @@ A: [https://docs.google.com/spreadsheets/d/1raCddghx5IyRShMGWlQcarJv1V7fjF779FtZ
 
 Q: Which types of assignments can be repeated each week without limit?
 A: Only in-class exercises and online quizzes can be repeated weekly. The 250-word written responses must rotate in format.
+
 
 
 
