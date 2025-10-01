@@ -1896,6 +1896,10 @@ A: [https://docs.google.com/spreadsheets/d/1raCddghx5IyRShMGWlQcarJv1V7fjF779FtZ
 Q: Which types of assignments can be repeated each week without limit?
 A: Only in-class exercises and online quizzes can be repeated weekly. The 250-word written responses must rotate in format.
 
+Q: how do I specifically sign up for the term assignment?
+A: you have to go to the Google sheet here http://tiny.cc/3390 click on the bottom tab that says 'sign up for term assignment here' and put your name on the sheet
+
+
 
 
 
