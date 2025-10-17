@@ -1894,6 +1894,13 @@ A: Only in-class exercises and online quizzes can be repeated weekly. The 250-wo
 Q: how do I specifically sign up for the term assignment?
 A: you have to go to the Google sheet here http://tiny.cc/3390 click on the bottom tab that says 'sign up for term assignment here' and put your name on the sheet
 
+People in CEL don't have a set deadline on the term assignment, their reflection is due after the deliverable has being submitted.
+
+People doing the media assessment or the LLM assignment - it is due the end of week 7 (October 29th 11:59 p.m.)
+
+The paired debates can be done on any week up to week 12. They are pre-recorded video debates, you can switch into them at any time (i.e. at the end of week 7 if you're not happy with your choice of media assessment, you could always switch into a paired debate instead and do it any week before week 12).
+
+
 
 
 
