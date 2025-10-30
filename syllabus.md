@@ -1900,6 +1900,13 @@ People doing the media assessment or the LLM assignment - it is due the end of w
 
 The paired debates can be done on any week up to week 12. They are pre-recorded video debates, you can switch into them at any time (i.e. at the end of week 7 if you're not happy with your choice of media assessment, you could always switch into a paired debate instead and do it any week before week 12).
 
+Q: do I have to do an essay proposal to submit the essay
+A: no, the bot has been giving out bad information - an essay proposal is not required for the essay it is one of the optional term assignments
+
+Q: does everyone have to submit an essay
+A: no, if you do the second option where you have 10% added to your participation summaries and you have completed 2500 words you do not have to complete the essay
+
+
 
 
 
