@@ -1906,6 +1906,34 @@ A: no, the bot has been giving out bad information - an essay proposal is not re
 Q: does everyone have to submit an essay
 A: no, if you do the second option where you have 10% added to your participation summaries and you have completed 2500 words you do not have to complete the essay
 
+Reading week notification
+Just so you know I will look up the page numbers of your citations and will provide a screenshot of the page if there are any errors in your citations. This will be intensified for the essays, because misrepresenting work is academic dishonesty.
+
+The media assessments have been marked, everyone should have a linked file with comments in the docx. If you don't, let me know because that's just a glitch.
+
+Everyone in the course has a 'revise and resubmit' option on written work (excluding weekly participation). Please make sure to review the instructions here https://westernu.brightspace.com/d2l/le/lessons/126015/topics/3263307 and follow them for resubmissions. 
+
+I generally say to work on the essay before you revise and resubmit the term assignment because it is worth more. However, I think people should seriously consider doing the in-person exam rather than the essay, based on the submissions I've seen so far.
+
+Common issues
+
+Citation and paragraph structure. This is the most basic problem that is recurring consistently. The difference between literary writing and academic writing is that we have to provide the evidence for our claims. So I need to see the evidence as direct quotes, and then the sentence immediately following it restating that quote in your own words. Paraphrasing is not sufficient. I can't state that strongly enough. Page numbers are necessary, they will never not be necessary. I will reattach the key part of the course syllabus on paragraphs below.
+
+The 'neutral tool' thesis of technology is a straw man I'm seeing everywhere. Unless someone establishes that it is neutral you are falsely setting something up to knock it down (hence strawman). This was week 1 of the course, it's not a thing, please stop putting it in your arguments.
+
+There are a few particular problems that are popping up in the current framework. They have been outlined extensively here https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing , but I will go over the obvious ones.
+
+1.Rhetorical or pithy claims that sound like they have substance but if we have to define concepts in terms of Political Science, they immediately fall apart. You need to define your concepts clearly with academic foundation, this includes key ideas like sovereignty, autonomy, independence and anything relating to power. 'Oppression', 'exclusion' and ' domination' in the abstract are not things - you need specific actors, instances and events of those things happening and why.
+
+2. 'If this, then that' - this rhetorical device is all over peoples writing, it's a common llm practice of putting things together that doesn't actually make any sense but sounds like it does. Reread all of your sentences closely and independently of one another. If you read it aloud and it doesn't make sense, it doesn't make sense.
+
+3. Particularly in the context of the media assessment instead of an argument you will see 'symbolizes', 'imitates' , 'mirrors', 'deepens', 'seen similarily' rather than clearly stated academic thesis that requires substantiation with evidence. If you don't have the appropriate framework the llms will start doing that to try to stick stuff together, that doesn't belong together. Review the approaches from the course - they are literally a requirement of the final exam.
+
+I don't have office hours this week but I can set up individual meetings if necessary.
+
+Best, Dan
+
+
 
 
 
