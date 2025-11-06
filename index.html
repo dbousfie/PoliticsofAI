@@ -8,12 +8,48 @@
     body {
       font-family: 'Lato', sans-serif;
       margin: 2rem;
+      background-color: #E8E3F3; /* UWO light purple */
+      background-image: repeating-linear-gradient(
+        45deg,
+        rgba(98, 63, 153, 0.05) 0,
+        rgba(98, 63, 153, 0.05) 1px,
+        transparent 1px,
+        transparent 200px
+      ),
+      repeating-linear-gradient(
+        -45deg,
+        rgba(98, 63, 153, 0.05) 0,
+        rgba(98, 63, 153, 0.05) 1px,
+        transparent 1px,
+        transparent 200px
+      );
     }
+
+    /* Watermark text */
+    body::before {
+      content: "Syllabus Questions Only";
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%) rotate(-25deg);
+      font-size: 5rem;
+      color: rgba(98, 63, 153, 0.08); /* very light purple text */
+      white-space: nowrap;
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    form, #response, h2, h3, h5 {
+      position: relative;
+      z-index: 1;
+    }
+
     textarea {
       font-family: monospace;
       width: 100%;
       max-width: 600px;
     }
+
     #response {
       white-space: pre-wrap;
       margin-top: 1rem;
@@ -31,7 +67,7 @@
     <button type="submit">Submit</button>
   </form>
   <h3>Response:</h3>
-   <h5> all queries and responses are anonymously recorded by qualitrics for feedback, research and improvement</h5>
+  <h5>All queries and responses are anonymously recorded by Qualtrics for feedback, research, and improvement.</h5>
   <pre id="response"></pre>
 
   <script>
